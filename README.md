@@ -11,3 +11,13 @@ npm install
 node app.js
 npm start
 ```
+
+# Node Express Generator
+```javascript
+npm update -g express
+npm update -g express-generator
+express nodetest2
+npm install
+mkdir data
+npm start
+```
