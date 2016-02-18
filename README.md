@@ -9,3 +9,6 @@ Sample Node Applications
 
 #### How to run
 * Install Node.js
+* In the Node CLI -> npm install
+* In the Node CLI -> npm start
+* Go to a web browser and open localhost:3000
