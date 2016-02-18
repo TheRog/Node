@@ -15,7 +15,7 @@ Sample Node Applications
 
 =====
 
-##### Useful links
+##### Useful Packages
 * http://materializecss.com/
 * https://www.getmdl.io/
 * http://socket.io/
