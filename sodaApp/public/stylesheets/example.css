@@ -1,0 +1,23 @@
+
+.image_picker_image {
+    max-width: 140px;
+    max-height: 100px;
+    background-color: #FF0000;
+}
+
+.demo-card-square.mdl-card {
+  width: 500px;
+}
+.demo-card-square > .mdl-card__title {
+  color: #fff;
+  height: 80px;
+  background:
+    url('../images/vending.jpg') center / cover;
+}
+
+.demo-card-square > mdl-card__supporting-text {
+  color: #f0f;
+  background: #f0f;
+  height: 400px;
+}
+

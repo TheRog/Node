@@ -1,0 +1,12 @@
+header {
+  text-shadow:-8px 5px 6px #1b5c01;
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
