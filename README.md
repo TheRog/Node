@@ -1,4 +1,4 @@
-# Node
+# Node.js
 Sample Node Applications
 
 ##### Notes
